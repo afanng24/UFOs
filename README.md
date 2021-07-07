@@ -45,7 +45,7 @@ A drawback of this web page is that it takes data directly from data.js and ther
 
 It is unrealistic to expect people to know the exact date or shape the UFO encounter was in. Looking through data.js, every country variable is “us” as the record sightings are all in the United States so the first suggestion to streamline this web page would be to take out the country element. 
 
-The second suggestion would be to take out the search function altogether and have instead two elements “state” and “city” as people are far more likely to forget the state or city they wanted to look up as opposed to the exact date. The function would allow a list of 50 states to be pressed and then the cities would show up as a result and they can look through a list of that instead. 
+The second suggestion would be to take out the search function altogether and have instead two elements “state” and “city” as people are far less likely to forget the state or city they wanted to look up as opposed to the exact date. The function would allow a list of 50 states to be pressed and then the cities would show up as a result and they can look through a list of that instead. 
 
 
 
