@@ -37,6 +37,11 @@ If you want to enter in just the shape of the sighted craft then all the example
 
   
 ## UFO Summary
+A drawback of this web page is that it takes data directly from data.js and therefore any search result must be perfectly in line with the information in that file. If for example you enter a city that is in the data then it would show, however, if that city is spelled wrong or even capitalized then the result would not show. 
+
+![summary 1](https://user-images.githubusercontent.com/82983000/124782601-5990cf80-df12-11eb-9cc7-d6f7fa6665c7.png)
+
+![summary 2](https://user-images.githubusercontent.com/82983000/124782740-74634400-df12-11eb-968a-c1e74dce6281.png)
 
 
 
